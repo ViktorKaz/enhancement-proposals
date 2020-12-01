@@ -15,7 +15,7 @@ The current implementation of the benchmarking module in sktime suffers from sev
 For preliminary discussions of the proposal presented here, see issue: [links to issues/pull requests]
 
 ## Contents
-[TOC]
+[Problem Statement](#Problem statement)
 
 ## Problem statement
 
